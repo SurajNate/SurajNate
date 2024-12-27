@@ -6,7 +6,7 @@
 - 🚀 Developed projects showcased in my profile; eager for more opportunities.
 - 🤝 Open to collaborations in AI, ML, Data Science, and development.
 - 📫 Reach me at surajnate29@gmail.com.
-- LinkedIn @Surajnate
+- LinkedIn https://www.linkedin.com/in/suraj-nate-50001a27b/
 
 <!---
 SurajNate/SurajNate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
