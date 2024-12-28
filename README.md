@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @SurajNate
 - 👀 I'm passionate about AI, ML, Data Science, and development (app/web).
-- 🚀  Currently pursuing B.E. Artificial Intelligence and Data Science, Final year at Rajiv Gandhi Institute of Technology.
+- 🚀  Currently pursuing B.E. Artificial Intelligence and Data Science, Final year at Rajiv Gandhi Institute of Technology, Mumbai.
 - 🥳 Completed Computer Engineering Diploma ( 3 Years ) 2019 - 2022.
 - 💪 Strong problem-solving skills, motivated, and spiritually stable.
 - 💻 Proficient in C/C++, Python, Java, HTML, CSS, JS, PHP, ReactJS, Node, Express, and familiar with MySQL, Firebase, and XAMPP servers.
