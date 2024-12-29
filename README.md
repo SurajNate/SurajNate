@@ -8,7 +8,7 @@
 - 🤝 Open to collaborations in AI, ML, Data Science, and development.
 - 📫 Reach me : surajnate29@gmail.com
 - 🔗 LinkedIn : https://www.linkedin.com/in/suraj-nate-50001a27b/
-- 📺 Check out my YouTube to see live project implementations,I've uploaded detailed videos showcasing how they work! : https://www.youtube.com/channel/UC4ZXv4x6aOmoM4ylls-RwRg/
+- 📺 YouTube  : https://www.youtube.com/channel/UC4ZXv4x6aOmoM4ylls-RwRg/
 
 <!---
 SurajNate/SurajNate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
