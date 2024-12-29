@@ -9,6 +9,7 @@
 - 📫 Reach me : surajnate29@gmail.com
 - 🔗 LinkedIn : https://www.linkedin.com/in/suraj-nate-50001a27b/
 - ▶️ YouTube  : https://www.youtube.com/channel/UC4ZXv4x6aOmoM4ylls-RwRg/
+- 📸 Instagram : https://www.instagram.com/suraj_nate?igsh=MXRhaHM0amh2ejlneQ==
 
 <!---
 SurajNate/SurajNate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
