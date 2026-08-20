@@ -9,7 +9,7 @@
 ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝     ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
 ```
 
-### Automation & AI Executive · GenAI Builder · Agentic AI Enthusiast
+### Automation & AI Executive · Agentic AI Builder · GenAI Engineer
 
 *Building intelligent systems that reduce effort, amplify output, and actually ship.*
 
@@ -27,13 +27,15 @@
 ```python
 suraj = {
     "role"        : "Automation & AI Executive @ Bureau Veritas India",
-    "location"    : "Mumbai, Maharashtra 🇮🇳",
+    "location"    : "Mumbai, Maharashtra 🇮🇳 (Borivali)",
     "education"   : "B.E. AI & Data Science — RGIT Mumbai (9.23 CGPA)",
-    "focus"       : ["Agentic AI", "RAG Pipelines", "Intelligent Automation", "GenAI Apps"],
+    "focus"       : ["Agentic AI", "RAG Pipelines", "LLM Orchestration", "Intelligent RPA"],
+    "stack"       : ["LangChain", "LangGraph", "FastAPI", "Azure AI", "Power Automate", "n8n"],
     "publications": 2,   # First-author @ ICFTSEM-2025 & IJRAR Apr 2025
-    "awards"      : ["Spot Award Q4 2025", "Process Optimization Award Q4 2025"],  # Bureau Veritas
-    "currently"   : "Building AI-powered productivity tools for enterprise workflows",
-    "ask_me_about": ["LLM Integration", "Power Automate", "Document Intelligence", "RAG"]
+    "awards"      : ["Spot Award Q4 2025", "Process Optimization Award Q4 2025", "Star Performer Q2 2026"],
+    "currently"   : "Shipping agentic AI + automation pipelines for enterprise workflows",
+    "also_doing"  : "Coaching CFOs & CAs on AI/automation in weekend teaching sessions",
+    "ask_me_about": ["Agentic AI", "LangGraph", "RPA + LLM hybrids", "Document Intelligence", "RAG"]
 }
 ```
 
@@ -43,22 +45,44 @@ suraj = {
 
 | 🏅 | Achievement |
 |----|-------------|
+| ⭐ | **Star Performer – Q2 2026** · Bureau Veritas India |
 | 🥇 | **Spot Award – Q4 2025** · Bureau Veritas India · Innovative Problem Solving |
 | 🏆 | **Process Optimization Award – Q4 2025** · Bureau Veritas GPC · Novel Approach |
+| 📈 | **Promoted within first year** · Bureau Veritas India |
 | 📄 | **First Author** · *A Survey on Transformer-Based Models in Code Summarization* · ICFTSEM-2025 |
 | 📄 | **First Author** · *Code Summarizer: A Transformer-Based Approach* · IJRAR, Apr 2025 |
 | 🎓 | **9.23 CGPA** · BE Artificial Intelligence & Data Science · RGIT Mumbai |
 | ⚡ | **100/100** · Engineering Mathematics III · University of Mumbai |
 | ⚖️ | **Judge** · AI AutoForge @ COGNITIA 2.0 · RGIT Mumbai, Mar 2026 |
+| 🎤 | **Weekend AI Coach** · Runs Saturday sessions teaching AI & automation to finance leaders (CFOs, CAs) |
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🤖 Agentic RPA — LLM-Driven Web Automation
+> Agent that drives real browser workflows (RPA Challenge-style forms) using tool-calling LLMs instead of brittle static scripts — a step toward replacing traditional RPA bots on enterprise apps like Siebel & CMX  
+> Iterated across LLM providers (Groq → Gemini) and optimized multi-tool-call throughput per turn  
+> `Python` `LangChain` `Playwright` `Gemini` `Agentic AI`
+
+---
+
+### 📑 NC Validation Assistant — Document Inspection Automation
+> Two-stage pipeline for Bureau Veritas: an LLM prompt that validates non-conformance reports, paired with a Python PDF highlighter that visually flags issues directly in the source document  
+> `Python` `PyMuPDF` `LLM Prompting` `Document Intelligence`
+
+---
+
+### 🎞️ PDF → PowerPoint Automation Pipeline
+> Model-agnostic system prompt ("Jules") that maps parsed PDF content onto a 33-slide branded template, auto-generating client-ready decks  
+> `Python` `PptxGenJS` `LLM Content Mapping`
+
+---
+
 ### 🤖 CV Genie 1.0 & 2.0 — Flagship AI Resume Automation Platform
-> Global-scale platform for intelligent CV Parsing, Profile Mapping & Multi-format Generation (HTML, DOCX, PDF)  
+> Global-scale platform for intelligent CV parsing, profile mapping & multi-format generation (HTML, DOCX, PDF)  
 > **~90% parsing accuracy** across diverse CV formats · Received internal recognition at Bureau Veritas  
-> `Python` `Streamlit` `Document Intelligence` `HTML/DOCX/PDF Generation`
+> `Python` `Streamlit` `LangChain` `RAG` `FastAPI`
 
 ---
 
@@ -69,9 +93,14 @@ suraj = {
 
 ---
 
+### ⚙️ JarvisAgent — Minimal Agentic AI Framework
+> ~108-line agentic AI framework exploring tool schema definition, message passing & dynamic tool resolution — built from scratch to understand foundational agentic mechanics  
+> `Python` `Groq API` `Agentic AI`
+
+---
+
 ### 🧠 Python Code Summarizer AI
-> Web app generating concise summaries of Python code using fine-tuned Hugging Face transformer models  
-> Research-backed — led to 2 published papers on transformer-based code summarization  
+> Web app generating concise summaries of Python code using fine-tuned Hugging Face transformer models — the research behind 2 published papers  
 > `Python` `Streamlit` `Hugging Face Transformers` `PyTorch`
 
 ---
@@ -82,19 +111,14 @@ suraj = {
 
 ---
 
-### ⚙️ JarvisAgent — Minimal Agentic AI Framework
-> ~108-line agentic AI framework exploring tool schema definition, message passing & dynamic tool resolution  
-> Built to understand foundational agentic mechanics using Groq API  
-> `Python` `Groq API` `Agentic AI`
-
----
-
 ## 🛠️ Tech Stack
 
-### 🧠 AI / GenAI / ML
+### 🧠 AI / GenAI / Agentic
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -103,8 +127,10 @@ suraj = {
 
 ### ⚡ Automation & RPA
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ### 🌐 Web & Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
