@@ -9,7 +9,7 @@
 ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝     ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
 ```
 
-### AI / Automation Engineer · GenAI Builder · Agentic AI Enthusiast
+### Automation & AI Executive · GenAI Builder · Agentic AI Enthusiast
 
 *Building intelligent systems that reduce effort, amplify output, and actually ship.*
 
@@ -26,7 +26,7 @@
 
 ```python
 suraj = {
-    "role"        : "Automation & AI Engineer @ Bureau Veritas India",
+    "role"        : "Automation & AI Executive @ Bureau Veritas India",
     "location"    : "Mumbai, Maharashtra 🇮🇳",
     "education"   : "B.E. AI & Data Science — RGIT Mumbai (9.23 CGPA)",
     "focus"       : ["Agentic AI", "RAG Pipelines", "Intelligent Automation", "GenAI Apps"],
